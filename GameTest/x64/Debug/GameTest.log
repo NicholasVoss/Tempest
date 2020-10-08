@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  app.cpp
+  SimpleController.cpp
+  SimpleSound.cpp
+  SimpleSprite.cpp
+  TextureLoader.cpp
+  Bullet.cpp
+E:\School\NEXTShowcase_Programming_NickVoss\Tempest\GameTest\Bullet.cpp(18,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Enemy.cpp
+E:\School\NEXTShowcase_Programming_NickVoss\Tempest\GameTest\Enemy.cpp(9,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\School\NEXTShowcase_Programming_NickVoss\Tempest\GameTest\Enemy.cpp(17,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\School\NEXTShowcase_Programming_NickVoss\Tempest\GameTest\Enemy.cpp(18,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\School\NEXTShowcase_Programming_NickVoss\Tempest\GameTest\Enemy.cpp(26,12): warning C4305: '+=': truncation from 'double' to 'float'
+  GameTest.cpp
+E:\School\NEXTShowcase_Programming_NickVoss\Tempest\GameTest\GameTest.cpp(49,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\School\NEXTShowcase_Programming_NickVoss\Tempest\GameTest\GameTest.cpp(166,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\School\NEXTShowcase_Programming_NickVoss\Tempest\GameTest\GameTest.cpp(218,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\School\NEXTShowcase_Programming_NickVoss\Tempest\GameTest\GameTest.cpp(269,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\School\NEXTShowcase_Programming_NickVoss\Tempest\GameTest\GameTest.cpp(286,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\School\NEXTShowcase_Programming_NickVoss\Tempest\GameTest\GameTest.cpp(303,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\School\NEXTShowcase_Programming_NickVoss\Tempest\GameTest\GameTest.cpp(320,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  main.cpp
+  GameTest.vcxproj -> E:\School\NEXTShowcase_Programming_NickVoss\Tempest\x64\Debug\GameTest.exe
+  E:\School\NEXTShowcase_Programming_NickVoss\Tempest\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
